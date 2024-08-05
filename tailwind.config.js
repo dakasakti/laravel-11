@@ -12,6 +12,15 @@ export default {
             fontFamily: {
                 sans: ["Inter var", ...defaultTheme.fontFamily.sans],
             },
+            animation: {
+                border: "background ease infinite",
+            },
+            keyframes: {
+                background: {
+                    "0%, 100%": { backgroundPosition: "0% 50%" },
+                    "50%": { backgroundPosition: "100% 50%" },
+                },
+            },
         },
     },
     plugins: [],
