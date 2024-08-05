@@ -2,6 +2,10 @@
 
 Blog System Application
 
+## View
+![Blogs-index](https://github.com/user-attachments/assets/733ca7c6-fee3-419e-8054-ed17dd6b2d64)
+![blogs-show](https://github.com/user-attachments/assets/52e1134b-ddf0-4a31-9a4d-a8f6309cb50d)
+
 ## Prerequisite
 
 -   PHP Dasar
@@ -21,7 +25,7 @@ Blog System Application
 
 -   Laragon
 -   Herd
--   XMPP
+-   XAMPP
 
 ## IDE
 
